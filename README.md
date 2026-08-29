@@ -1,25 +1,25 @@
 # fiap-pos-tech-ai-scientist-fase-1-desafio
 Desafio Tech da fase 1 da pós-tech em AI Scientist pela FIAP.
 
-Você deverá atender os seguintes requisitos nesse desafio:
-1. Entendimento do negócio: nessa primeira etapa, queremos exercitar o seu pensamento analítico, não código. Nos traga a resposta para as seguintes perguntas de negócio:
-  ● Qual problema de negócio está sendo resolvido?
-  ● Por que o NPS é importante para um e-commerce?
-  ● Quais áreas poderiam se beneficiar desses insights? Exemplos: logística, atendimento, pricing, produto etc.
+  O presente estudo tem por objetivo analisar os fatores que influenciam o Net Promoter Score (NPS), buscando compreender o comportamento dos clientes e identificar as tendências ao longo de sua jornada de compra no e-commerce.
+  Mais do que realizar uma análise puramente descritiva, busca-se formular as perguntas certas para identificar relações e possíveis fatores associados ao NPS. A análise conjunta dos dados disponíveis pode revelar oportunidades de melhoria em aspectos como logística, atendimento, prazo de entrega, experiência de compra e satisfação, transformando os dados em insights relevantes para o negócio.
+  Um NPS elevado tende a estar associado a uma maior propensão à recompra, uma vez que clientes satisfeitos tendem a manter uma relação de lealdade com a empresa. Também pode favorecer o boca a boca, por meio de recomendações e avaliações positivas, contribuindo para a conquista de novos consumidores. No contexto do e-commerce, esses dois efeitos, de maior retenção e maior aquisição por recomendação, podem contribuir, no médio e longo prazos, para o crescimento das vendas e do market share. Essa relação, entretanto, deve ser investigada nos dados, pois NPS elevado não implica, por si só, causalidade sobre recompra ou participação de mercado.
+  Os insights produzidos podem ser utilizados por praticamente toda a cadeia do negócio, especialmente a de experiência do cliente. A logística pode identificar o impacto de prazos e atrasos, o atendimento pode entender o impacto da quantidade de contatos e tempo de resolução das demandas, o comercial pode mapear os fatores que aumentam a retenção e o potencial de vendas, como descontos e condições de pagamento.
+  A análise poderá ser mais completa se incluir aspectos de comparação com indicadores externos, permitindo contextualizar os resultados obtidos:
+* Benchmark de NPS: comparação com a média do setor e com concorrentes;
+* Concorrência: market share, crescimento, preços, frete e prazos de entrega dos principais players;
+* Fatores macroeconômicos, que explicam as tendências de mercado e consumo.
 
-Além do entendimento do negócio, inclua uma reflexão (não precisa de dados externos obrigatórios):
-Como o NPS impacta:
-  ● Recompra;
-  ● Boca a boca;
-  ● Market share em e-commerce.
+  A variável que representa a satisfação do cliente é o NPS, que consiste na nota atribuída pelo cliente à sua propensão a recomendar a empresa. O cliente atribui a nota após o encerramento da jornada de compra, e a partir dela, é classificado em promotor (9 a 10), neutro (7 a 8) ou detrator (abaixo de 6).
+  Entre os dados obtidos, o NPS foi escolhido por ser um indicador amplamente utilizado para avaliar a percepção, lealdade e propensão à recomendação do cliente em relação ao e-commerce. Para este estudo, ele permite investigar quais características da jornada de compra estão associadas a uma experiência positiva ou negativa.
+  O principal risco é tratar o NPS como uma medida absoluta de satisfação ou como uma variável que, isoladamente, explica o comportamento futuro do cliente. Um NPS elevado não garante, por exemplo, que haverá recompra, assim como um NPS baixo não significa necessariamente que o cliente deixará de comprar.
+  Também é importante considerar que o NPS pode ser influenciado pelo momento e pelo contexto em que a pesquisa é realizada, além de possíveis vieses de resposta. Por isso, a análise deve considerar outras variáveis.
+Dessa forma, o objetivo não é apenas prever ou explicar uma nota de NPS, mas identificar os fatores da jornada que estão associados à percepção do cliente e que podem representar oportunidades concretas de melhoria para o negócio.
 
-Quais indicadores de mercado poderiam complementar essa análise? Exemplos: benchmarks de NPS, SLA logístico, concorrência.
 
-2. Definição da Target: qual é o alvo desse problema de negócio? Nessa segunda etapa queremos uma avaliação de entendimento conceitual, não técnico.
-  ● Qual variável representa a satisfação do cliente?
-  ● Por que ela foi escolhida?
-  ● Em que momento da jornada essa informação é coletada?
-  ● Existe algum risco de usar essa variável de forma inadequada?
+
+
+
 
 4. Análise Exploratória dos Dados (EDA): realize uma análise exploratória com foco em negócio, não só estatística. Responda:
   ● Quais fatores parecem mais críticos para a satisfação?
